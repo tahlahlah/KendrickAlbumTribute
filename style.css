@@ -144,6 +144,7 @@ body {
 }
 .clickal:hover {
   transform: scale(1.05);
+ filter: drop-shadow(5px 5px 5px #000000);
 }
 .clickal:active {
   transform: scale(0.95);
